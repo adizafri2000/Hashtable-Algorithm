@@ -8,7 +8,7 @@ Hashtable (Hash function, insertion, searching) algorithms. Applied Chaining and
 <ul>
   <li>Main Programs</li>
   <ul>
-    <li>Chaining.cpp : Demonstrates the Chaining algorithm</li>
+    <li>[Chaining.cpp](https://github.com/adizafri2000/Algorithm/blob/main/Chaining.cpp) : Demonstrates the Chaining algorithm</li>
     <li>LinearProbing.cpp : Demonstrates the Linear Probing algorithm</li>
   </ul>
   <li>Data Files (Main programs read data from these files)</li>
